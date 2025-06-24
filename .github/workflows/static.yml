@@ -40,11 +40,11 @@ jobs:
           echo "NEXT_PUBLIC_WEBHOOK_URL=${{ secrets.NEXT_PUBLIC_WEBHOOK_URL }}" >> $GITHUB_ENV
           echo "NEXT_PUBLIC_AUTH_TOKEN=${{ secrets.NEXT_PUBLIC_AUTH_TOKEN }}" >> $GITHUB_ENV
 
-      - name: Upload static site (from .next/out)
-        uses: actions/upload-pages-artifact@v1
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v2
         with:
-          path: './out'
+          path: ./out
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
