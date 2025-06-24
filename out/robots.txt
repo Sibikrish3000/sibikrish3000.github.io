@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://sibikrish.vercel.app/
+
+# Sitemaps
+Sitemap: https://sibikrish.vercel.app/sitemap.xml
