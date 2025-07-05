@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /login
+
+Sitemap: https://sibikrish3000.github.io/sitemap.xml
