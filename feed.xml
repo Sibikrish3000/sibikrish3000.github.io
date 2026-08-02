@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sibi Krishnamoorthy - Data Science &amp; AI Blog</title>
+    <link>https://www.sibikrish.me/blogs</link>
+    <description>Technical articles, machine learning guides, deep learning research, and software engineering by Sibi Krishnamoorthy.</description>
+    <language>en-us</language>
+    <atom:link href="https://www.sibikrish.me/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Top 10 AI-Powered Healthcare Tools</title>
+      <link>https://www.sibikrish.me/blog/top-ten-ai-powered-healthcare-tools</link>
+      <guid isPermaLink="true">https://www.sibikrish.me/blog/top-ten-ai-powered-healthcare-tools</guid>
+      <pubDate>Wed, 02 Jul 2025 14:36:26 GMT</pubDate>
+      <description>Ten practical AI healthcare tools improving diagnosis, treatment, patient monitoring, and mental health support through real-time data, automation, and advanced analytics.</description>
+      <author>sibikrish3000@gmail.com (Sibi Krishnamoorthy)</author>
+    </item>
+    <item>
+      <title>Demystifying Data Science: From Raw Data to Real Impact</title>
+      <link>https://www.sibikrish.me/blog/demystifying-data-science-from-raw-data-to-real-impact</link>
+      <guid isPermaLink="true">https://www.sibikrish.me/blog/demystifying-data-science-from-raw-data-to-real-impact</guid>
+      <pubDate>Mon, 23 Jun 2025 14:55:36 GMT</pubDate>
+      <description>An in-depth overview of the data science lifecycle, tools, and real-world impact—from raw data to deployed solutions.</description>
+      <author>sibikrish3000@gmail.com (Sibi Krishnamoorthy)</author>
+    </item>
+  </channel>
+</rss>

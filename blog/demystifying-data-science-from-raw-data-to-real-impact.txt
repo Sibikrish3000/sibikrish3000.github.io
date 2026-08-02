@@ -1,0 +1,169 @@
+1:"$Sreact.fragment"
+2:I[80492,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"ThemeProvider"]
+3:I[71387,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"SettingsProvider"]
+a:I[68027,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"default",1]
+:HL["/_next/static/chunks/2ncc5v3pkty7f.css","style"]
+:HL["/_next/static/chunks/3x3chcnxf-e7g.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.3u4lli0-axodc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap","style"]
+:HL["https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap","style"]
+0:{"P":null,"c":["","blog","demystifying-data-science-from-raw-data-to-real-impact"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","demystifying-data-science-from-raw-data-to-real-impact","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ncc5v3pkty7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3x3chcnxf-e7g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/1rgh4phukq2_r.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3xcbv5l2553v7.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/03fva0e_oufl2.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/34zfqmfl4-iwn.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0w6qczxip_s3h.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/_next/static/chunks/0upr4679tb19n.js","async":true,"nonce":"$undefined"}],["$","script","script-6",{"src":"/_next/static/chunks/297rey9vrq41d.js","async":true,"nonce":"$undefined"}],["$","script","script-7",{"src":"/_next/static/chunks/2im7c515bo69p.js","async":true,"nonce":"$undefined"}],["$","script","script-8",{"src":"/_next/static/chunks/24bi3mjp_s9qr.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"inter_fd091ad6-module__giF-bG__variable playfair_display_fa6c7a-module__e6LDAG__variable jetbrains_mono_6104e6b7-module__s6uLTa__variable","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap","rel":"stylesheet"}],["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap","rel":"stylesheet"}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Person\",\"name\":\"Sibi Krishnamoorthy\",\"url\":\"https://www.sibikrish.me\",\"jobTitle\":\"Applied AI & Backend Engineer\",\"description\":\"Applied AI & Backend Engineer specializing in deploying low-latency AI architectures, FastAPI microservices, and robust PyTorch pipelines.\",\"knowsAbout\":[\"Data Science\",\"Machine Learning\",\"Deep Learning\",\"PyTorch\",\"TensorFlow\",\"FastAPI\",\"MLOps\",\"Python\",\"Data Engineering\"],\"sameAs\":[\"https://github.com/sibikrish3000\",\"https://linkedin.com/in/sibikrish3000\",\"https://twitter.com/sibikrish3000\"]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Sibi Krishnamoorthy Portfolio\",\"url\":\"https://www.sibikrish.me\",\"author\":{\"@type\":\"Person\",\"name\":\"Sibi Krishnamoorthy\"}}"}}]]}],["$","body",null,{"className":"font-sans bg-background text-foreground antialiased bg-grid-pattern","children":[["$","a",null,{"href":"#main-content","className":"sr-only focus:not-sr-only focus:absolute focus:z-50 focus:top-4 focus:left-4 focus:p-4 focus:bg-background focus:text-primary focus:border focus:border-primary rounded-md","children":"Skip to main content"}],["$","$L2",null,{"attribute":"class","defaultTheme":"dark","enableSystem":true,"disableTransitionOnChange":true,"children":["$","$L3",null,{"settings":{"id":"global","site_title":"","favicon_url":"","seo_description":"Applied AI & Backend Engineer specializing in deploying low-latency AI architectures, FastAPI microservices, and robust PyTorch pipelines.","language":"en","hero_h1":"","hero_subtext":"Applied AI & Backend Engineer","hero_cta_label":"","hero_cta_link":"","contact_email":"sibikrish3000@gmail.com","contact_phone":"","contact_address":"","contact_maps_src":"","social_links":[],"created_at":"2026-04-20T21:56:06.518Z","updated_at":"2026-08-01T10:46:18.420Z","about_avatar_url":null,"resume_pdf_url":null,"enable_r2_cleanup":false},"children":"$L4"}]}]]}]]}]]}],{"children":["$L5",{"children":["$L6",{"children":["$L7",{},null,false,null]},null,false,"$@8"]},null,false,"$@8"]},null,false,null],"$L9",false]],"m":"$undefined","G":["$a",["$Lb","$Lc"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"30G9VpLQ00WV6M9KbSf6z"}
+d:I[12985,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"NuqsAdapter"]
+e:I[39756,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"default"]
+f:I[98168,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js","/_next/static/chunks/2is-4ytscl291.js","/_next/static/chunks/41ceps12ti2wr.js"],"default"]
+10:I[37457,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"default"]
+11:I[39444,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"CommandPalette"]
+12:I[68462,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"AiChatWidget"]
+13:I[49284,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"AnalyticsTracker"]
+14:I[3484,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"Toaster"]
+16:I[97367,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"OutletBoundary"]
+17:"$Sreact.suspense"
+1a:I[97367,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"ViewportBoundary"]
+1c:I[97367,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"MetadataBoundary"]
+4:["$","$Ld",null,{"children":[["$","main",null,{"id":"main-content","className":"bg-radial-gradient min-h-screen","children":["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lf",null,{"children":["$","$L10",null,{}]}],"templateStyles":[],"templateScripts":[["$","script","script-0",{"src":"/_next/static/chunks/2is-4ytscl291.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/41ceps12ti2wr.js","async":true}]],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}]]}]
+5:["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+6:["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L10",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+7:["$","$1","c",{"children":["$L15",[["$","script","script-0",{"src":"/_next/static/chunks/2bph062rt9daq.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/3zikkejwrbyej.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/41ceps12ti2wr.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}]
+19:[]
+8:"$W19"
+9:["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","div",null,{"hidden":true,"children":["$","$L1c",null,{"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1d"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2ncc5v3pkty7f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+c:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/3x3chcnxf-e7g.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[27201,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js"],"IconMark"]
+18:null
+1d:[["$","title","0",{"children":"Demystifying Data Science: From Raw Data to Real Impact | Sibi Krishnamoorthy | Sibi Krishnamoorthy | Applied AI & Backend Engineer"}],["$","meta","1",{"name":"description","content":"An in-depth overview of the data science lifecycle, tools, and real-world impact—from raw data to deployed solutions."}],["$","link","2",{"rel":"author","href":"https://www.sibikrish.me"}],["$","meta","3",{"name":"author","content":"Sibi Krishnamoorthy"}],["$","meta","4",{"name":"keywords","content":"Data Science,Big Data,Data Engineering"}],["$","meta","5",{"name":"creator","content":"Sibi Krishnamoorthy"}],["$","meta","6",{"name":"publisher","content":"Sibi Krishnamoorthy"}],["$","meta","7",{"name":"robots","content":"index, follow"}],["$","meta","8",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","9",{"rel":"canonical","href":"https://www.sibikrish.me/blog/demystifying-data-science-from-raw-data-to-real-impact"}],["$","meta","10",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","meta","11",{"property":"og:title","content":"Demystifying Data Science: From Raw Data to Real Impact"}],["$","meta","12",{"property":"og:description","content":"An in-depth overview of the data science lifecycle, tools, and real-world impact—from raw data to deployed solutions."}],["$","meta","13",{"property":"og:url","content":"https://www.sibikrish.me/blog/demystifying-data-science-from-raw-data-to-real-impact"}],["$","meta","14",{"property":"og:image","content":"https://www.sibikrish.me/og-image.png"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"Demystifying Data Science: From Raw Data to Real Impact"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2025-06-23T14:55:36.18323+00:00"}],["$","meta","20",{"property":"article:modified_time","content":"2025-07-04T06:11:35.797606+00:00"}],["$","meta","21",{"property":"article:author","content":"Sibi Krishnamoorthy"}],["$","meta","22",{"property":"article:tag","content":"Data Science"}],["$","meta","23",{"property":"article:tag","content":"Big Data"}],["$","meta","24",{"property":"article:tag","content":"Data Engineering"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"Demystifying Data Science: From Raw Data to Real Impact"}],["$","meta","27",{"name":"twitter:description","content":"An in-depth overview of the data science lifecycle, tools, and real-world impact—from raw data to deployed solutions."}],["$","meta","28",{"name":"twitter:image","content":"https://www.sibikrish.me/og-image.png"}],["$","link","29",{"rel":"icon","href":"/favicon.ico"}],["$","link","30",{"rel":"apple-touch-icon","href":"/favicon.webp"}],["$","$L1e","31",{}]]
+1f:I[76417,["/_next/static/chunks/1rgh4phukq2_r.js","/_next/static/chunks/3xcbv5l2553v7.js","/_next/static/chunks/03fva0e_oufl2.js","/_next/static/chunks/34zfqmfl4-iwn.js","/_next/static/chunks/0w6qczxip_s3h.js","/_next/static/chunks/0upr4679tb19n.js","/_next/static/chunks/297rey9vrq41d.js","/_next/static/chunks/2im7c515bo69p.js","/_next/static/chunks/24bi3mjp_s9qr.js","/_next/static/chunks/2bph062rt9daq.js","/_next/static/chunks/3zikkejwrbyej.js","/_next/static/chunks/41ceps12ti2wr.js"],"default"]
+20:Tba3,Data Science has rapidly evolved from a niche discipline into a cornerstone of modern decision-making. From personalized recommendations to fraud detection, the impact of data science is omnipresent. But what exactly is data science, and how does it transform raw data into actionable insights?
+
+---
+
+## What is Data Science?
+
+Data Science is the interdisciplinary field that combines statistical analysis, machine learning, data engineering, and domain knowledge to extract insights and make predictions from data. It involves five key stages:
+
+1. **Data Collection**
+2. **Data Cleaning**
+3. **Exploratory Data Analysis (EDA)**
+4. **Modeling and Evaluation**
+5. **Deployment and Monitoring**
+
+---
+
+
+
+## The Data Science Pipeline
+
+### 1. Data Collection
+
+Sources include databases, APIs, IoT sensors, web scraping, and user logs. Tools like Python, SQL, and cloud platforms such as AWS or GCP are used for data ingestion.
+
+### 2. Data Cleaning
+
+Raw data is often messy. Data cleaning involves handling missing values, correcting inconsistencies, and formatting. This step is crucial—poor data quality leads to unreliable models.
+
+### 3. Exploratory Data Analysis (EDA)
+
+EDA helps understand patterns, correlations, and distributions using statistical summaries and visualizations. Libraries like Pandas, Matplotlib, and Seaborn are widely used.
+
+### 4. Modeling and Evaluation
+
+Here, algorithms like Logistic Regression, Random Forest, or Deep Neural Networks are trained to make predictions. Evaluation metrics (accuracy, precision, recall, F1-score) ensure the model's reliability.
+
+### 5. Deployment and Monitoring
+
+Once validated, models are deployed using tools like Flask, FastAPI, Docker, or cloud services. Monitoring tracks drift, latency, and accuracy in real-time systems.
+
+---
+
+## Real-World Applications
+
+- **Healthcare**: Predict disease progression and optimize treatment plans  
+- **Finance**: Detect fraudulent transactions and assess credit risk  
+- **E-commerce**: Personalize product recommendations  
+- **Manufacturing**: Predict equipment failure through sensor data  
+- **Entertainment**: Classify content and optimize user experience  
+
+---
+
+## Skills Needed
+
+- **Programming**: Python, SQL, R  
+- **Mathematics**: Linear algebra, probability, statistics  
+- **Machine Learning**: Supervised/unsupervised learning, deep learning  
+- **Tools**: TensorFlow, Scikit-learn, PyTorch, Tableau, Power BI  
+- **Cloud & Deployment**: AWS, GCP, Azure, Docker, Kubernetes  
+
+---
+
+## Challenges in Data Science
+
+- **Data Privacy & Ethics**
+- **Model Interpretability**
+- **Bias in Data**
+- **Scalability of Solutions**
+
+---
+
+## Final Thoughts
+
+Data Science is not just about coding or models; it's about solving real problems through rigorous thinking and responsible innovation. As data continues to grow in complexity and volume, the role of data scientists becomes even more critical in shaping the future.
+
+---
+
+*Stay curious. Keep learning. Build responsibly.*21:Tce6,'1':90B,113B '2':93B,144B '3':96B,173B '4':101B,199B '5':105B,232B 'accuraci':221B,255B 'action':54B 'algebra':309B 'algorithm':204B 'analysi':69B,99B,176B 'api':119B 'applic':264B 'assess':278B 'aw':136B,329B 'azur':331B 'becom':386B 'bi':326B 'bias':343B 'build':398B 'challeng':334B 'classifi':295B 'clean':95B,146B,153B 'cloud':132B,248B,327B 'code':357B 'collect':92B,115B 'combin':67B 'commerc':283B 'complex':378B 'content':296B 'continu':374B 'cornerston':21B 'correct':158B 'correl':182B 'credit':279B 'critic':389B 'crucial':165B 'curious':395B 'data':2A,6A,10B,36B,44B,52B,58B,60B,72B,84B,91B,94B,98B,110B,114B,142B,145B,148B,152B,167B,175B,293B,336B,338B,345B,351B,373B,384B 'databas':118B 'decis':25B 'decision-mak':24B 'deep':211B,316B 'demystifi':1A 'deploy':106B,233B,240B,328B 'detect':32B,274B 'disciplin':18B 'diseas':267B 'distribut':184B 'docker':246B,332B 'domain':75B 'drift':252B 'e':282B 'e-commerc':281B 'eda':100B,177B,178B 'engin':73B 'ensur':227B 'entertain':294B 'equip':289B 'ethic':340B 'evalu':104B,202B,219B 'even':387B 'evolv':14B 'exact':42B 'experi':300B 'exploratori':97B,174B 'extract':78B 'f1':225B 'f1-score':224B 'failur':290B 'fastapi':245B 'field':65B 'final':349B 'financ':273B 'five':87B 'flask':244B 'forest':209B 'format':161B 'fraud':31B 'fraudul':275B 'futur':393B 'gcp':138B,330B 'grow':376B 'handl':155B 'healthcar':265B 'help':179B 'impact':9A,34B 'includ':117B 'inconsist':159B 'ingest':143B 'innov':371B 'insight':55B,79B 'interdisciplinari':64B 'interpret':342B 'involv':86B,154B 'iot':120B 'keep':396B 'key':88B 'knowledg':76B 'kubernet':333B 'latenc':253B 'lead':169B 'learn':71B,313B,315B,317B,322B,397B 'librari':190B 'like':128B,191B,205B,243B 'linear':308B 'log':126B 'logist':206B 'machin':70B,312B 'make':26B,81B,217B 'manufactur':287B 'mathemat':307B 'matplotlib':193B 'messi':151B 'metric':220B 'miss':156B 'model':102B,172B,200B,229B,238B,341B,359B 'modern':23B 'monitor':108B,235B,250B 'need':302B 'network':213B 'neural':212B 'nich':17B 'often':150B 'omnipres':39B 'optim':270B,298B 'panda':192B 'pattern':181B 'person':28B,284B 'pipelin':112B 'plan':272B 'platform':133B 'poor':166B 'power':325B 'precis':222B 'predict':82B,218B,266B,288B 'privaci':339B 'probabl':310B 'problem':365B 'product':285B 'program':303B 'progress':268B 'python':129B,304B 'pytorch':323B 'qualiti':168B 'r':306B 'random':208B 'rapid':13B 'raw':5A,51B,147B 'real':8A,258B,262B,364B 'real-tim':257B 'real-world':261B 'recal':223B 'recommend':29B,286B 'regress':207B 'reliabl':231B 'respons':370B,399B 'rigor':367B 'risk':280B 'role':382B 'scalabl':346B 'scienc':3A,11B,37B,45B,59B,61B,111B,337B,352B 'scientist':385B 'scikit':321B 'scikit-learn':320B 'score':226B 'scrape':123B 'seaborn':195B 'sensor':121B,292B 'servic':249B 'shape':391B 'skill':301B 'solut':348B 'solv':363B 'sourc':116B 'sql':130B,305B 'stage':89B 'statist':68B,186B,311B 'stay':394B 'step':163B 'summari':187B 'supervised/unsupervised':314B 'system':260B 'tableau':324B 'tensorflow':319B 'think':368B 'thought':350B 'time':259B 'tool':127B,242B,318B 'track':251B 'train':215B 'transact':276B 'transform':50B 'treatment':271B 'understand':180B 'unreli':171B 'use':140B,185B,198B,241B 'user':125B,299B 'valid':237B 'valu':157B 'visual':189B 'volum':380B 'web':122B 'wide':197B 'world':263B22:T1070,<p>Data Science has rapidly evolved from a niche discipline into a cornerstone of modern decision-making. From personalized recommendations to fraud detection, the impact of data science is omnipresent. But what exactly is data science, and how does it transform raw data into actionable insights?</p>
+<hr>
+<h2 id="what-is-data-science"><a href="#what-is-data-science">What is Data Science?</a></h2>
+<p>Data Science is the interdisciplinary field that combines statistical analysis, machine learning, data engineering, and domain knowledge to extract insights and make predictions from data. It involves five key stages:</p>
+<ol>
+<li><strong>Data Collection</strong></li>
+<li><strong>Data Cleaning</strong></li>
+<li><strong>Exploratory Data Analysis (EDA)</strong></li>
+<li><strong>Modeling and Evaluation</strong></li>
+<li><strong>Deployment and Monitoring</strong></li>
+</ol>
+<hr>
+<h2 id="the-data-science-pipeline"><a href="#the-data-science-pipeline">The Data Science Pipeline</a></h2>
+<h3 id="1-data-collection"><a href="#1-data-collection">1. Data Collection</a></h3>
+<p>Sources include databases, APIs, IoT sensors, web scraping, and user logs. Tools like Python, SQL, and cloud platforms such as AWS or GCP are used for data ingestion.</p>
+<h3 id="2-data-cleaning"><a href="#2-data-cleaning">2. Data Cleaning</a></h3>
+<p>Raw data is often messy. Data cleaning involves handling missing values, correcting inconsistencies, and formatting. This step is crucial—poor data quality leads to unreliable models.</p>
+<h3 id="3-exploratory-data-analysis-eda"><a href="#3-exploratory-data-analysis-eda">3. Exploratory Data Analysis (EDA)</a></h3>
+<p>EDA helps understand patterns, correlations, and distributions using statistical summaries and visualizations. Libraries like Pandas, Matplotlib, and Seaborn are widely used.</p>
+<h3 id="4-modeling-and-evaluation"><a href="#4-modeling-and-evaluation">4. Modeling and Evaluation</a></h3>
+<p>Here, algorithms like Logistic Regression, Random Forest, or Deep Neural Networks are trained to make predictions. Evaluation metrics (accuracy, precision, recall, F1-score) ensure the model's reliability.</p>
+<h3 id="5-deployment-and-monitoring"><a href="#5-deployment-and-monitoring">5. Deployment and Monitoring</a></h3>
+<p>Once validated, models are deployed using tools like Flask, FastAPI, Docker, or cloud services. Monitoring tracks drift, latency, and accuracy in real-time systems.</p>
+<hr>
+<h2 id="real-world-applications"><a href="#real-world-applications">Real-World Applications</a></h2>
+<ul>
+<li><strong>Healthcare</strong>: Predict disease progression and optimize treatment plans</li>
+<li><strong>Finance</strong>: Detect fraudulent transactions and assess credit risk</li>
+<li><strong>E-commerce</strong>: Personalize product recommendations</li>
+<li><strong>Manufacturing</strong>: Predict equipment failure through sensor data</li>
+<li><strong>Entertainment</strong>: Classify content and optimize user experience</li>
+</ul>
+<hr>
+<h2 id="skills-needed"><a href="#skills-needed">Skills Needed</a></h2>
+<ul>
+<li><strong>Programming</strong>: Python, SQL, R</li>
+<li><strong>Mathematics</strong>: Linear algebra, probability, statistics</li>
+<li><strong>Machine Learning</strong>: Supervised/unsupervised learning, deep learning</li>
+<li><strong>Tools</strong>: TensorFlow, Scikit-learn, PyTorch, Tableau, Power BI</li>
+<li><strong>Cloud &#x26; Deployment</strong>: AWS, GCP, Azure, Docker, Kubernetes</li>
+</ul>
+<hr>
+<h2 id="challenges-in-data-science"><a href="#challenges-in-data-science">Challenges in Data Science</a></h2>
+<ul>
+<li><strong>Data Privacy &#x26; Ethics</strong></li>
+<li><strong>Model Interpretability</strong></li>
+<li><strong>Bias in Data</strong></li>
+<li><strong>Scalability of Solutions</strong></li>
+</ul>
+<hr>
+<h2 id="final-thoughts"><a href="#final-thoughts">Final Thoughts</a></h2>
+<p>Data Science is not just about coding or models; it's about solving real problems through rigorous thinking and responsible innovation. As data continues to grow in complexity and volume, the role of data scientists becomes even more critical in shaping the future.</p>
+<hr>
+<p><em>Stay curious. Keep learning. Build responsibly.</em></p>15:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Demystifying Data Science: From Raw Data to Real Impact\",\"description\":\"An in-depth overview of the data science lifecycle, tools, and real-world impact—from raw data to deployed solutions.\",\"image\":[\"https://www.sibikrish.me/og-image.png\"],\"datePublished\":\"2025-06-23T14:55:36.18323+00:00\",\"dateModified\":\"2025-07-04T06:11:35.797606+00:00\",\"inLanguage\":\"en-US\",\"keywords\":\"Data Science, Big Data, Data Engineering\",\"author\":{\"@type\":\"Person\",\"name\":\"Sibi Krishnamoorthy\",\"url\":\"https://www.sibikrish.me\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"Sibi Krishnamoorthy\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://www.sibikrish.me/favicon.webp\"}},\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.sibikrish.me/blog/demystifying-data-science-from-raw-data-to-real-impact\"}}"}}],["$","$L1f",null,{"post":{"id":"20076ef1-1a71-47b6-8989-950703359eff","title":"Demystifying Data Science: From Raw Data to Real Impact","slug":"demystifying-data-science-from-raw-data-to-real-impact","content_json":[],"content_markdown":"$20","excerpt":"An in-depth overview of the data science lifecycle, tools, and real-world impact—from raw data to deployed solutions.","cover_image_url":null,"author":"Sibi Krishnamoorthy","read_time":"10 min read","tags":["Data Science","Big Data","Data Engineering"],"published":true,"version":1,"schema_version":1,"created_at":"2025-06-23T14:55:36.18323+00:00","updated_at":"2025-07-04T06:11:35.797606+00:00","fts":"$21","published_at":"2025-06-23T14:55:36.18323+00:00"},"parsedHtml":"$22","blurDataUrl":"$undefined"}]]
